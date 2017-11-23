@@ -344,7 +344,7 @@ int main()
 
     //constant variables:
     int c = 299792458;              //speed of light, and thus the speed of gravity, in metres/sec.
-    long double G = 6.673e-11;      //universal gravitational constant, in m^3*kg^-1*s^-2.
+    long double G = 6.6740831e−11;      //universal gravitational constant, in m^3*kg^-1*s^-2.
 
 
     /*
