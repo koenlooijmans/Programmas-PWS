@@ -30,3 +30,7 @@ WINDOWS:
 5. Volg verdere instructies vanuit de UI van de simulatie.
 
 Hieronder volgt een gids hoe u data_analyser.py en data_analyser2.py kan wijzigen (u moet immers handmatig het output-mapje, input-mpaje en aantal simulaties invoeren) en uitvoeren op uw computer:
+
+1. Download en installeer Python 3.6 van https://www.python.org/downloads/
+2. Verander de instellingen van data_analyser en data_analyser2, zodat ze voldoen aan uw benodigdheden. Dit moet in de code, er is geen aparte UI. Dit doet u door het file te openen met kladblok/notepad of een dergelijk programma. 
+3. Open het bestand met Python 3.6. Het zou nu een console moeten openen, dat betekent dat het aan het runnen is.
